@@ -1,0 +1,605 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1698390430202634, "dur":1149, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430203788, "dur":258, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1698390430204076, "dur":29, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1698390430204105, "dur":334, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1698390430204455, "dur":564, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430205019, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430577970, "dur":225, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578196, "dur":47, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578243, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578247, "dur":18, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578265, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578267, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578273, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578274, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578278, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578279, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578283, "dur":32, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578316, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578321, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578323, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578329, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578330, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578336, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578337, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578342, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578344, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578349, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578350, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578354, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578355, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578359, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578360, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578364, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578365, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578368, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578369, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578372, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578374, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578377, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578389, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430578413, "dur":8683, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1698390430204525, "dur":499, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698390430205025, "dur":2107, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698390430207141, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1698390430207144, "dur":237, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698390430207384, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1698390430207387, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698390430227051, "dur":925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1698390430227980, "dur":39471, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430267455, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698390430267464, "dur":3406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430270883, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430271051, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698390430271058, "dur":1417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430272487, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430272658, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698390430272663, "dur":2929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430275604, "dur":46452, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430322060, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698390430322087, "dur":1003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430323101, "dur":23776, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430346880, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698390430346886, "dur":1789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430348693, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430348889, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698390430348894, "dur":1858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430350763, "dur":507, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430351273, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698390430351277, "dur":3004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430354294, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430354454, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698390430354463, "dur":956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430355430, "dur":37459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430392893, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698390430392902, "dur":2358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430395274, "dur":99910, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430495189, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698390430495198, "dur":898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698390430496108, "dur":81883, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430204555, "dur":476, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430205031, "dur":2106, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430207141, "dur":8709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1698390430215871, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430215883, "dur":909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1698390430216803, "dur":31298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430248107, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430248143, "dur":1193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430249350, "dur":25625, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430274978, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430274985, "dur":1493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430276491, "dur":1639, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430278133, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430278139, "dur":2371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430280521, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430280709, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430280714, "dur":2253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430282977, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430283117, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430283143, "dur":1057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430284210, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430284363, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430284369, "dur":1119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430285501, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430285646, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430285651, "dur":902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430286564, "dur":37667, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430324235, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430324244, "dur":1709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430325967, "dur":34530, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430360501, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430360507, "dur":935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430361454, "dur":42718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430404175, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430404184, "dur":3249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430407446, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430407644, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430407651, "dur":2724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430410389, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/NavMeshComponents.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430410556, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430410563, "dur":4805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/NavMeshComponents.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430415385, "dur":3487, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430418876, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430418885, "dur":2624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430421525, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/fps.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430421686, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430421693, "dur":998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/fps.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430422702, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/fps.Gameplay.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430422851, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430422857, "dur":1766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/fps.Gameplay.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430424635, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/fps.Game.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430424846, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430424853, "dur":987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/fps.Game.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430425851, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/fps.AI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430425985, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430425991, "dur":772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/fps.AI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430426773, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430426902, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430426907, "dur":1031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430427951, "dur":34973, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430462928, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430463360, "dur":1212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698390430464585, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1698390430464600, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698390430464624, "dur":9311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1698390430473946, "dur":104060, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430204550, "dur":477, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430205027, "dur":2112, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430207141, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1698390430207380, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430223716, "dur":8557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1698390430232287, "dur":37083, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430269374, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430269382, "dur":4794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430274191, "dur":977, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430275171, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430275210, "dur":4226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430279448, "dur":475, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430279927, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430279952, "dur":1148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430281112, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430281266, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430281291, "dur":2222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430283526, "dur":20701, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430304301, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430304316, "dur":1048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430305378, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430305543, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430305550, "dur":1028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430306591, "dur":252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430306846, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430306851, "dur":1175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430308038, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430308194, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430308199, "dur":1249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430309462, "dur":30458, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430339926, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430339936, "dur":1142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430341091, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430341236, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430341241, "dur":2482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430343734, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.Tutorials.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430343873, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430343879, "dur":2229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.Tutorials.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430346120, "dur":310, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430346433, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430346438, "dur":2271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430348721, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430348875, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430348881, "dur":1892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430350783, "dur":89844, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430440630, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430440636, "dur":2401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698390430443054, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698390430443138, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430443145, "dur":23034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698390430466196, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698390430466211, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698390430466220, "dur":6433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698390430472664, "dur":105303, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698390430204577, "dur":457, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698390430205034, "dur":2101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698390430207144, "dur":8461, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1698390430215608, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698390430215678, "dur":984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1698390430216674, "dur":35291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame.exe" }}
+,{ "pid":12345, "tid":4, "ts":1698390430251969, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698390430251980, "dur":2398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame.exe" }}
+,{ "pid":12345, "tid":4, "ts":1698390430254393, "dur":26554, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698390430280950, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698390430280956, "dur":14524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698390430295494, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698390430295649, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698390430295657, "dur":1563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698390430297303, "dur":25444, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698390430322750, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698390430322756, "dur":1555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698390430324406, "dur":21184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698390430345594, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698390430345600, "dur":2023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698390430347636, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698390430347779, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698390430347784, "dur":2184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698390430349979, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698390430350203, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698390430350208, "dur":2346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698390430352565, "dur":143488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698390430496056, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698390430496063, "dur":1211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698390430497286, "dur":80702, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698390430204594, "dur":444, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698390430205038, "dur":2102, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698390430207142, "dur":8372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1698390430215517, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698390430215530, "dur":1187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1698390430216731, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1698390430216760, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698390430217206, "dur":33410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1698390430250639, "dur":31685, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698390430282328, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698390430282334, "dur":12345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698390430294692, "dur":28333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698390430323028, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698390430323035, "dur":2502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698390430325551, "dur":40909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698390430366465, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698390430366476, "dur":1327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698390430367819, "dur":154378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698390430522202, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698390430522210, "dur":1086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698390430523305, "dur":54673, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698390430204612, "dur":429, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698390430205041, "dur":2092, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698390430207141, "dur":21033, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1698390430228178, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698390430228388, "dur":978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1698390430229379, "dur":34172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698390430263556, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698390430263572, "dur":2031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698390430265616, "dur":74337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698390430339957, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698390430339964, "dur":1404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698390430341380, "dur":299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698390430341682, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698390430341687, "dur":2006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698390430343705, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698390430343887, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698390430343892, "dur":2689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698390430346593, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698390430346754, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698390430346760, "dur":2088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698390430348859, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698390430348995, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698390430349000, "dur":2240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698390430351251, "dur":204633, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698390430555889, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698390430555898, "dur":1864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698390430557775, "dur":20243, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430204630, "dur":414, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430205044, "dur":2090, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430207141, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1698390430207192, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430208347, "dur":2285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1698390430210645, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1698390430210667, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430210845, "dur":1145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1698390430212005, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1698390430212033, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430212039, "dur":1719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1698390430213768, "dur":73780, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430287551, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430287623, "dur":3249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430290890, "dur":30429, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430321322, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430321331, "dur":956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430322300, "dur":1003, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430323305, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430323319, "dur":2360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430325692, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430325864, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430325871, "dur":1071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430326953, "dur":18573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430345530, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430345536, "dur":2170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430347717, "dur":365, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430348086, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430348092, "dur":1695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430349797, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430349938, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430349943, "dur":1654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430351609, "dur":64521, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430416134, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430416144, "dur":1047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430417203, "dur":159749, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430576956, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698390430576964, "dur":957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698390430577937, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":7, "ts":1698390430577938, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430204658, "dur":388, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430205047, "dur":2098, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430207147, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1698390430207196, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430214301, "dur":14352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1698390430228670, "dur":49138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430277812, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430277820, "dur":1700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430279532, "dur":31707, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430311243, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430311249, "dur":894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430312156, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430312293, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430312317, "dur":969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430313296, "dur":26998, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430340297, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430340325, "dur":1289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430341626, "dur":428, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430342057, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430342062, "dur":1779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430343857, "dur":316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430344176, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430344181, "dur":3156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430347350, "dur":465, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430347819, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430347824, "dur":2330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430350166, "dur":640, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430350809, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430350814, "dur":3645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430354478, "dur":84846, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430439329, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430439340, "dur":1089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698390430440442, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1698390430440456, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430440511, "dur":913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1698390430441434, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":8, "ts":1698390430441447, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430441452, "dur":3590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":8, "ts":1698390430445058, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":8, "ts":1698390430445072, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430445078, "dur":2644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":8, "ts":1698390430447735, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1698390430447747, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430447752, "dur":1709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1698390430449474, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1698390430449537, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430449544, "dur":4243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1698390430453802, "dur":30180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1698390430483989, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698390430484000, "dur":1532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1698390430485546, "dur":92453, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698390430204682, "dur":367, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698390430205049, "dur":2092, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698390430207142, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1698390430207198, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698390430219228, "dur":12728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1698390430231970, "dur":97764, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698390430329739, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698390430329749, "dur":1176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698390430330940, "dur":265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698390430331208, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698390430331214, "dur":994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698390430332218, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698390430332389, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698390430332396, "dur":929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698390430333340, "dur":51204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698390430384550, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698390430384561, "dur":1191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698390430385763, "dur":1891, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698390430387658, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698390430387665, "dur":2036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698390430389714, "dur":153314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698390430543032, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698390430543039, "dur":1579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698390430544633, "dur":33338, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698390430204701, "dur":351, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698390430205052, "dur":2095, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698390430207147, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1698390430207213, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698390430219483, "dur":12436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1698390430231937, "dur":28590, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698390430260534, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698390430260544, "dur":4275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698390430264847, "dur":22161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698390430287012, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698390430287019, "dur":898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698390430287928, "dur":22394, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698390430310325, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698390430310334, "dur":6204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698390430316553, "dur":27414, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698390430343999, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698390430344004, "dur":3453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698390430347470, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698390430347626, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698390430347632, "dur":2025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698390430349671, "dur":363, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698390430350037, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698390430350043, "dur":2355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698390430352408, "dur":97727, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698390430450138, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698390430450380, "dur":3671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698390430454063, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1698390430454077, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698390430454082, "dur":7931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1698390430462030, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level2.resS" }}
+,{ "pid":12345, "tid":10, "ts":1698390430462062, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698390430462068, "dur":1204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level2.resS" }}
+,{ "pid":12345, "tid":10, "ts":1698390430463288, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level1.resS" }}
+,{ "pid":12345, "tid":10, "ts":1698390430463302, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698390430463310, "dur":9905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level1.resS" }}
+,{ "pid":12345, "tid":10, "ts":1698390430473229, "dur":104737, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430204716, "dur":339, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430205055, "dur":2087, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430207143, "dur":8295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1698390430215441, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430215453, "dur":1160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1698390430216625, "dur":99547, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1698390430316177, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430316186, "dur":3078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1698390430319278, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698390430319482, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430319489, "dur":916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698390430320416, "dur":25079, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698390430345499, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430345507, "dur":3058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698390430348576, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698390430348707, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430348712, "dur":1801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698390430350525, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698390430350658, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430350663, "dur":3970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698390430354645, "dur":89092, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698390430443740, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430443748, "dur":2137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698390430445900, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698390430445913, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430445918, "dur":1063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698390430446993, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1698390430447006, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430447011, "dur":5168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1698390430452198, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698390430452211, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430452217, "dur":10211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698390430462445, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level2" }}
+,{ "pid":12345, "tid":11, "ts":1698390430462458, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430462463, "dur":2671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level2" }}
+,{ "pid":12345, "tid":11, "ts":1698390430465146, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1698390430465161, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430465167, "dur":6202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1698390430471382, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/boot.config" }}
+,{ "pid":12345, "tid":11, "ts":1698390430471511, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698390430471518, "dur":1600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/boot.config" }}
+,{ "pid":12345, "tid":11, "ts":1698390430473130, "dur":104881, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698390430204730, "dur":328, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698390430205058, "dur":2086, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698390430207146, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1698390430207196, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698390430214372, "dur":14453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1698390430228839, "dur":26800, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698390430255643, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698390430255652, "dur":969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698390430256634, "dur":60696, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698390430317333, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698390430317341, "dur":1287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698390430318642, "dur":30140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698390430348785, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698390430348792, "dur":5081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698390430353887, "dur":140257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698390430494150, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698390430494162, "dur":1454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698390430495636, "dur":82359, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698390430204746, "dur":315, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698390430205061, "dur":2091, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698390430207152, "dur":8008, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1698390430215163, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698390430215175, "dur":853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1698390430216038, "dur":280721, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698390430496762, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698390430496767, "dur":8904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698390430505692, "dur":72292, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698390430204848, "dur":216, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698390430205064, "dur":2082, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698390430207146, "dur":8525, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1698390430215674, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698390430215686, "dur":1059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1698390430216756, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430216896, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698390430217223, "dur":738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430217969, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430218071, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698390430218184, "dur":789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430218981, "dur":52937, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430271921, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698390430271928, "dur":3093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430275067, "dur":1910, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430276980, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698390430276986, "dur":2507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430279504, "dur":1012, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430280519, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698390430280525, "dur":2314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430282851, "dur":30224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430313078, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698390430313084, "dur":1056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430314153, "dur":81314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430395470, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698390430395477, "dur":946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430396433, "dur":861, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430397296, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698390430397302, "dur":1207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430398520, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430398728, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698390430398734, "dur":5222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430403970, "dur":128801, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430532775, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698390430532784, "dur":926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698390430533723, "dur":44251, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430204868, "dur":199, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430205067, "dur":2072, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430207140, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1698390430207191, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430208464, "dur":2117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1698390430210598, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1698390430210632, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430211128, "dur":1109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1698390430212252, "dur":64686, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698390430276941, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430277169, "dur":1205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698390430278389, "dur":1302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698390430279694, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430279699, "dur":2988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698390430282755, "dur":75799, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698390430358559, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430358569, "dur":1087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698390430359668, "dur":92417, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698390430452090, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430452100, "dur":1077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698390430453188, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1698390430453322, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430453327, "dur":1209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1698390430454547, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/resources.assets" }}
+,{ "pid":12345, "tid":15, "ts":1698390430454560, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430454565, "dur":1856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/resources.assets" }}
+,{ "pid":12345, "tid":15, "ts":1698390430456438, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level3.resS" }}
+,{ "pid":12345, "tid":15, "ts":1698390430456455, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430456466, "dur":3002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level3.resS" }}
+,{ "pid":12345, "tid":15, "ts":1698390430459490, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level3" }}
+,{ "pid":12345, "tid":15, "ts":1698390430459505, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430459513, "dur":4106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level3" }}
+,{ "pid":12345, "tid":15, "ts":1698390430463630, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level1" }}
+,{ "pid":12345, "tid":15, "ts":1698390430463641, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430463646, "dur":3359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/level1" }}
+,{ "pid":12345, "tid":15, "ts":1698390430467018, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":15, "ts":1698390430467030, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698390430467035, "dur":7390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":15, "ts":1698390430474437, "dur":103565, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698390430204886, "dur":184, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698390430205070, "dur":2066, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698390430207140, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1698390430207371, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698390430219726, "dur":12508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1698390430232248, "dur":28279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698390430260533, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698390430260544, "dur":6019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698390430266578, "dur":21368, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698390430287950, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698390430287956, "dur":1032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698390430288999, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698390430289233, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698390430289239, "dur":1638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698390430290889, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698390430291133, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698390430291139, "dur":976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698390430292125, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698390430292354, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698390430292359, "dur":1204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698390430293573, "dur":37061, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698390430330637, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698390430330645, "dur":1277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698390430331934, "dur":129647, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698390430461586, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698390430461597, "dur":7222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698390430468832, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":16, "ts":1698390430468844, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698390430468850, "dur":3424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kyle/Desktop/ComputerAsAMedium/Assignment5/FPS Microgame_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":16, "ts":1698390430472286, "dur":105682, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698390430588067, "dur":1385, "ph":"X", "name": "ProfilerWriteOutput" }
+,
